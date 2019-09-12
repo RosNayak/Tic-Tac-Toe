@@ -179,5 +179,3 @@ int main()
 	
 	return 0;
 }
-
-//Improve check function.
